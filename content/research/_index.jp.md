@@ -1,12 +1,9 @@
 +++
 date = '2026-02-19T14:38:00+09:00'
-draft = true
-title = '_Index.jp'
+draft = false
+title = 'Research / 研究内容'
 +++
 
----
-title: "Research / 研究内容"
----
 
 実世界の問題解決を目的とした、システム開発およびデータ分析プロジェクトを推進しています。
 

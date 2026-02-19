@@ -21,12 +21,12 @@ defaultContentLanguage = "jp"
         url = "https://researchmap.jp/k-fukuzawa"  # 先生のIDに修正
         weight = 30
       [[languages.jp.menu.main]]
-        name = "講義情報"
-        url = "/courses/"
-        weight = 40
-      [[languages.jp.menu.main]]
         name = "ニュース・思考メモ"
         url = "/posts/"
+        weight = 40
+      [[languages.jp.menu.main]]
+        name = "講義情報"
+        url = "/courses/"
         weight = 50
       [[languages.jp.menu.main]]
         name = "お問い合わせ"

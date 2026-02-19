@@ -1,0 +1,46 @@
+{{ define "body" }}
+    <body class="{{ if .Site.Params.backgroundImage }} background-image" style="background-image: url('{{ .Site.Params.backgroundImage }}');" {{ else }}"{{ end }}>
+{{ end }}
+
+{{ define "main" }}
+    <div class="content-center">
+        <main>
+            <div>
+                {{ if .Site.Params.Portrait.Path }}
+                <img src="{{ .Site.Params.Portrait.Path }}" class="circle" alt="{{ .Site.Params.Portrait.Alt }}" style="max-width:{{ .Site.Params.Portrait.MaxWidth }}" />
+                {{ end }}
+
+                <h1>{{ .Site.Title }}</h1>
+
+                {{ partial "subtitle.html" . }}
+
+                {{- with .Site.Params.social }}
+                    <div>
+                        {{ partial "social-icons.html" . }}
+                    </div>
+                {{- end }}
+            </div>
+
+            {{- $posts := where .Site.RegularPages "Section" "posts" }}
+            {{- if $posts }}
+            <div class="posts-digest">
+                <h2>{{ if eq .Site.Language.Lang "jp" }}最新の投稿{{ else }}Recent Posts{{ end }}</h2>
+                <ul>
+                {{- range first 3 $posts }}
+                    <li>
+                        <span class="posts-digest__date">{{ .Date.Format "2006-01-02" }}</span>
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                        {{- if .Summary }}
+                        <p>{{ .Summary }}</p>
+                        {{- end }}
+                    </li>
+                {{- end }}
+                </ul>
+                <a href="{{ if eq .Site.Language.Lang "jp" }}/posts/{{ else }}/en/posts/{{ end }}">
+                    {{ if eq .Site.Language.Lang "jp" }}すべての投稿を見る →{{ else }}View all posts →{{ end }}
+                </a>
+            </div>
+            {{- end }}
+        </main>
+    </div>
+{{ end }}

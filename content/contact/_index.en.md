@@ -13,7 +13,7 @@ For inquiries about research, collaboration, or student recruitment, please feel
 **Kazuhisa Fukuzawa**
 Aichi Institute of Technology, Faculty of Business Administration
 
-- **Email:** (insert email address here)
+- **Email:** k-fukuzawa [at] aitech.ac.jp
 - **Address:** 1247 Yachigusa, Yakusa-cho, Toyota, Aichi 470-0392, Japan
 
 ### For Students

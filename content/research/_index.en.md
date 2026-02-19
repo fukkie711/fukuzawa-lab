@@ -1,13 +1,9 @@
 
 +++
 date = '2026-02-19T14:38:00+09:00'
-draft = true
-title = '_Index.en'
+draft = false
+title = 'Research'
 +++
-
----
-title: "Research"
----
 
 We focus on practical system development and data analysis to solve real-world problems.
 
