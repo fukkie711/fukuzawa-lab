@@ -47,4 +47,4 @@ In this lab, we value the cycle of **"Build, Measure, and Think."** We tackle pr
 
 In our laboratory, through graduation research and seminars, you will cultivate the "ability to formulate your own questions and find your own solutions." We value **curiosity, perseverance, and integrity** more than prior programming experience.
 
-If you are interested, please feel free to [Contact Us](/contact/).
+If you are interested, please feel free to [Contact Us](/en/contact/).

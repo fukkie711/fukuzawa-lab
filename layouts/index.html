@@ -36,7 +36,7 @@
                     </li>
                 {{- end }}
                 </ul>
-                <a href="{{ if eq .Site.Language.Lang "jp" }}/posts/{{ else }}/en/posts/{{ end }}">
+                <a href="{{ "posts/" | relLangURL }}">
                     {{ if eq .Site.Language.Lang "jp" }}すべての投稿を見る →{{ else }}View all posts →{{ end }}
                 </a>
             </div>
