@@ -1,0 +1,63 @@
+baseURL = "https://fukuzawa-lab.com/"
+theme = "hello-friend-ng"
+defaultContentLanguage = "jp"
+
+[languages]
+  [languages.jp]
+    languageName = "日本語"
+    title = "福澤研究室 | System Design Lab"
+    weight = 1
+    [languages.jp.menu]
+      [[languages.jp.menu.main]]
+        name = "About"
+        url = "/about/"
+        weight = 10
+      [[languages.jp.menu.main]]
+        name = "Research"
+        url = "/research/"
+        weight = 20
+      [[languages.jp.menu.main]]
+        name = "Researchmap"
+        url = "https://researchmap.jp/k-fukuzawa"  # 先生のIDに修正
+        weight = 30
+      [[languages.jp.menu.main]]
+        name = "講義情報"
+        url = "/courses/"
+        weight = 40
+      [[languages.jp.menu.main]]
+        name = "ニュース・思考メモ"
+        url = "/posts/"
+        weight = 50
+      [[languages.jp.menu.main]]
+        name = "お問い合わせ"
+        url = "/contact/"
+        weight = 60
+
+  [languages.en]
+    languageName = "English"
+    title = "Fukuzawa Lab"
+    weight = 2
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        name = "About"
+        url = "/en/about/"
+        weight = 10
+      [[languages.en.menu.main]]
+        name = "Research"
+        url = "/en/research/"
+        weight = 20
+      [[languages.en.menu.main]]
+        name = "Publications"
+        url = "https://researchmap.jp/kfukuzawa?lang=en"
+        weight = 30
+      [[languages.en.menu.main]]
+        name = "News & Notes"
+        url = "/en/posts/"
+        weight = 50
+      [[languages.en.menu.main]]
+        name = "Contact"
+        url = "/en/contact/"
+        weight = 60
+
+[params]
+  EnableGlobalLanguageMenu = true
