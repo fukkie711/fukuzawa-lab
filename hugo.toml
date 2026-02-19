@@ -40,11 +40,11 @@ defaultContentLanguage = "jp"
     [languages.en.menu]
       [[languages.en.menu.main]]
         name = "About"
-        url = "/about/"
+        url = "/en/about/"
         weight = 10
       [[languages.en.menu.main]]
         name = "Research"
-        url = "/research/"
+        url = "/en/research/"
         weight = 20
       [[languages.en.menu.main]]
         name = "Publications"
@@ -52,11 +52,11 @@ defaultContentLanguage = "jp"
         weight = 30
       [[languages.en.menu.main]]
         name = "News & Notes"
-        url = "/posts/"
+        url = "/en/posts/"
         weight = 50
       [[languages.en.menu.main]]
         name = "Contact"
-        url = "/contact/"
+        url = "/en/contact/"
         weight = 60
 
 [params]
