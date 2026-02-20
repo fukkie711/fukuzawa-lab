@@ -5,7 +5,7 @@ defaultContentLanguage = "jp"
 [languages]
   [languages.jp]
     languageName = "日本語"
-    title = "福澤研究室 | System Design Lab"
+    title = "福澤研究室 | Systems Design Lab"
     weight = 1
     [languages.jp.menu]
       [[languages.jp.menu.main]]
