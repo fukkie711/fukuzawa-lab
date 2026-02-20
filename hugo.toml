@@ -21,7 +21,7 @@ defaultContentLanguage = "jp"
         url = "https://researchmap.jp/k-fukuzawa"
         weight = 30
       [[languages.jp.menu.main]]
-        name = "ニュース・思考メモ"
+        name = "ニュース・ブログ"
         url = "/posts/"
         weight = 40
       [[languages.jp.menu.main]]
