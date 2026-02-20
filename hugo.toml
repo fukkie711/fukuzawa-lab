@@ -29,7 +29,7 @@ defaultContentLanguage = "jp"
         url = "/courses/"
         weight = 50
       [[languages.jp.menu.main]]
-        name = "お問い合わせ"
+        name = "Contact"
         url = "/contact/"
         weight = 60
 
