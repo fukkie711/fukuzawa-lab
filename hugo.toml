@@ -61,5 +61,8 @@ defaultContentLanguage = "jp"
 
 [params]
   EnableGlobalLanguageMenu = true
+  canonicalURL = true
+  description = "愛知工業大学 福澤研究室。技術経営・データサイエンス・IoTシステム・LLMを研究しています。"
+  keywords = "福澤研究室, 愛知工業大学, 技術経営, MOT, データサイエンス, LLM, IoT, システムデザイン"
   [params.Logo]
     logoText = "Systems Design Lab"
