@@ -61,3 +61,5 @@ defaultContentLanguage = "jp"
 
 [params]
   EnableGlobalLanguageMenu = true
+  [params.Logo]
+    logoText = "福澤研究室"
