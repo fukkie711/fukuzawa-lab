@@ -2,6 +2,7 @@
 date = '2026-02-19T14:37:26+09:00'
 draft = false
 title = 'About the Laboratory'
+description = 'Fukuzawa Laboratory at Aichi Institute of Technology. Specializing in Systems Design, Management of Technology (MOT), Data Science, LLM, and IoT systems.'
 +++
 
 ## Philosophy

@@ -2,6 +2,7 @@
 date = '2026-02-19T14:38:00+09:00'
 draft = false
 title = 'Research'
+description = 'Research projects at Fukuzawa Laboratory: LLM-based dialogue systems, investment support systems, IoT monitoring, and patent analysis using NLP. Bridging technology and management.'
 +++
 
 We focus on practical system development and data analysis to solve real-world problems.

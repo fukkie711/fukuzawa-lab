@@ -2,6 +2,7 @@
 date = '2026-02-19T00:00:00+09:00'
 draft = false
 title = 'Contact'
+description = 'Contact Fukuzawa Laboratory at Aichi Institute of Technology. Inquiries about research collaboration, student recruitment, and academic partnerships are welcome.'
 +++
 
 ## Contact
