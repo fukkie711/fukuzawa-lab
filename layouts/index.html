@@ -31,7 +31,7 @@
                         <span class="posts-digest__date">{{ .Date.Format "2006-01-02" }}</span>
                         <a href="{{ .Permalink }}">{{ .Title }}</a>
                         {{- if .Summary }}
-                        <p>{{ .Summary }}</p>
+                        <p>{{ .Summary | truncate 120 "…" }} <a href="{{ .Permalink }}">{{ if eq $.Site.Language.Lang "jp" }}続きを読む →{{ else }}Read more →{{ end }}</a></p>
                         {{- end }}
                     </li>
                 {{- end }}
