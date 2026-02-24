@@ -26,7 +26,7 @@
             <div class="posts-digest">
                 <h2>{{ if eq .Site.Language.Lang "jp" }}最新の投稿{{ else }}Recent Posts{{ end }}</h2>
                 <ul>
-                {{- range first 10 $posts }}
+                {{- range first 5 $posts }}
                     <li>
                         <span class="posts-digest__date">{{ .Date.Format "2006-01-02" }}</span>
                         <a href="{{ .Permalink }}">{{ .Title }}</a>
