@@ -2,7 +2,6 @@ baseURL = "https://fukuzawa-lab.com/"
 theme = "hello-friend-ng"
 defaultContentLanguage = "jp"
 hasCJKLanguage = true
-relativeURLs = true
 
 [languages]
   [languages.jp]
