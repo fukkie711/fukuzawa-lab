@@ -15,3 +15,11 @@ We focus on practical system development and data analysis to solve real-world p
 
 ### Publications & Awards
 Please visit my **[Researchmap profile](https://researchmap.jp/kfukuzawa?lang=en)** for a full list of publications.
+
+### Lab Equipment & Software
+
+#### NVIDIA DGX Spark
+
+![NVIDIA DGX Spark](/images/dgx2.jpg)
+
+Our laboratory is equipped with the **NVIDIA DGX Spark**, a personal AI supercomputer powered by the NVIDIA GB10 Grace Blackwell Superchip. It delivers up to 1 PetaFLOPS of AI computing performance (FP4 precision) and features 128GB of unified system memory, enabling local fine-tuning and inference of large language models (LLMs) without relying on cloud services. For more details, see our [blog post](/posts/dgx-spark-2026/).
