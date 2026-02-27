@@ -7,6 +7,11 @@ tags = ['blog', 'news']
 
 この度、システムデザイン研究室に **NVIDIA DGX Spark** を導入しました。デスクの上に置けるAIスーパーコンピュータとして話題を集めているマシンで、研究・教育活動の幅が大きく広がることを期待しています。
 
+- [NVIDIA DGX Spark 公式ページ](https://www.nvidia.com/ja-jp/products/workstations/dgx-spark/)
+- [ELSA Japan 様より購入させていただきました](https://shop.elsa-jp.jp/view/item/000000001031?category_page_id=ct323)
+
+
+
 ## NVIDIA DGX Sparkとは
 
 NVIDIA DGX Sparkは、2025年3月のNVIDIA GTC 2025にて「パーソナルAIスーパーコンピュータ」として発表された、世界最小クラスのAIスーパーコンピュータです。150mm × 150mm × 50.5mmという手のひらサイズの筐体に、データセンター級の演算性能を凝縮した革新的なマシンです。
@@ -60,6 +65,15 @@ NVIDIA Blackwellアーキテクチャを採用したGB10 Superchipにより、FP
 ### マルチモーダルAIの実験
 
 画像・テキスト・音声を組み合わせたマルチモーダルモデルの実験も、十分なメモリと演算性能で快適に行える環境になりました。
+
+DGX Spark 開封
+![NVIDIA DGX Spark 開封](/images/dgx1.jpg)
+
+DGX Spark 本体
+![NVIDIA DGX Spark 本体](/images/dgx2.jpg)
+
+研究室での設置の様子
+![研究室での設置の様子](/images/dgx3.jpg)
 
 ## おわりに
 
