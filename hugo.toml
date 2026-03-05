@@ -6,7 +6,7 @@ hasCJKLanguage = true
 [languages]
   [languages.jp]
     languageName = "日本語"
-    title = "福澤研究室 | Systems Design Lab"
+    title = "福澤研究室 | システムデザイン研究室"
     weight = 1
     [languages.jp.menu]
       [[languages.jp.menu.main]]
@@ -36,7 +36,7 @@ hasCJKLanguage = true
 
   [languages.en]
     languageName = "English"
-    title = "Fukuzawa Lab"
+    title = "Fukuzawa Lab | Systems Design Lab"
     weight = 2
     [languages.en.menu]
       [[languages.en.menu.main]]
