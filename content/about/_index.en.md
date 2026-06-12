@@ -11,6 +11,25 @@ description = 'Fukuzawa Laboratory at Aichi Institute of Technology. Specializin
 
 The Fukuzawa Laboratory specializes in **System Design (the integration of Technology × Management × Humanity)**. Moving beyond purely technical research, we utilize computational power to solve social issues and pursue the creation of business value.
 
+> "I aim to contribute to society by exploring 'how companies can increase their corporate value' through both theoretical research and the development of practical solutions."
+
+---
+
+## Laboratory Features
+
+We focus on three main research themes.
+
+**① Surveying and Researching DX in Small and Medium-Sized Enterprises**
+We investigate the challenges and success factors SMEs face when advancing digitalization and DX. Our goal is to engage with real-world issues on the ground and explore practical solutions.
+
+**② Mapping Technology Through Patent and Intellectual Property Data**
+What technologies does a company hold? Where are its strengths and weaknesses? We use large volumes of patent data and AI to visualize and analyze the "big picture" of technology, with the aim of extracting actionable intelligence for strategic management decisions.
+
+**③ Surveying and Analyzing Consumer Needs in Overseas Markets**
+Through consumer surveys in Southeast Asia (Thailand, Indonesia, Malaysia, Vietnam, etc.), we conduct international comparative analyses of needs for electric vehicles (EVs) and emerging technologies. Students also have the opportunity to present their research at international conferences.
+
+We believe in "just try building it — just try it out." No worries if programming isn't your strong suit. If you have the **curiosity** to look at data and ask "why?" and the **persistence** to keep at it, you're welcome here.
+
 ---
 
 ## Faculty Profile
@@ -30,17 +49,6 @@ IEEE TEMS / Japan Industrial Management Association (JIMA) / Japan Society of Pr
 ### Tech Stack
 Python / Large Language Models (LLM) / Deep Learning / IoT Systems / Data Science
 
-> "I aim to contribute to society by exploring 'how companies can increase their corporate value' through both theoretical research and the development of practical solutions."
-
----
-
-## Laboratory Features
-
-In this lab, we value the cycle of **"Build, Measure, and Think."** We tackle problems through the twin pillars of theory and implementation, striving to design systems that function effectively in the real world.
-
-- **Interdisciplinary Approach:** Research that combines perspectives from management, information science, and human behavior.
-- **Emphasis on Implementation:** We prioritize shaping ideas into working, functional systems.
-- **Trial and Error Welcome:** The process of failure is also recorded and shared as a vital part of the research.
 
 ---
 
