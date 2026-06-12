@@ -5,7 +5,7 @@ title = 'About the Laboratory'
 description = 'Fukuzawa Laboratory at Aichi Institute of Technology. Specializing in Systems Design, Management of Technology (MOT), Data Science, LLM, and IoT systems.'
 +++
 
-## Philosophy
+## Concept
 
 **"Creating New Systems, Creating New Value"**
 
