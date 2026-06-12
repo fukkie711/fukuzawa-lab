@@ -26,6 +26,10 @@ hasCJKLanguage = true
         url = "/posts/"
         weight = 40
       [[languages.jp.menu.main]]
+        name = "Lab Resources"
+        url = "/lab-resources/"
+        weight = 45
+      [[languages.jp.menu.main]]
         name = "Classes"
         url = "/courses/"
         weight = 50
@@ -51,6 +55,10 @@ hasCJKLanguage = true
         name = "Publications"
         url = "https://researchmap.jp/k-fukuzawa?lang=en"
         weight = 30
+      [[languages.en.menu.main]]
+        name = "Lab Resources"
+        url = "/en/lab-resources/"
+        weight = 45
       [[languages.en.menu.main]]
         name = "News & Notes"
         url = "/en/posts/"
