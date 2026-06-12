@@ -11,4 +11,4 @@ tags = ['news']
 
 海外の地で英語によるプレゼンテーションを行うという、非常に貴重な経験ができたと思います。お疲れ様でした！
 
-<img src="/images/icpm2025-taiwan.jp.JPG" alt="国際会議での発表の様子" style="width:50%;">
+![国際会議での発表の様子](/images/icpm2025-taiwan.jp.JPG)
